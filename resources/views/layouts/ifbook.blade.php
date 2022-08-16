@@ -25,6 +25,9 @@
 
   <!-- Template Main CSS File -->
   <link href="{{asset('assets/css/style.css')}}" rel="stylesheet">
+<style>
+  
+</style>
 
   <!-- =======================================================
   * Template Name: iPortfolio - v3.0.1
